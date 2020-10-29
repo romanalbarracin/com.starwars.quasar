@@ -1,6 +1,6 @@
 # Operación Fuego de Quasar
 
-SUPUESTOOS
+SUPUESTOS
 
 - Siempre se obtiene la informacion de los 3 satelites
 - Los arreglos de mensajes siempre contienen el mismo tamaño 5
